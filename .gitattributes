@@ -1,1 +1,2 @@
 save_weights/model_26.pth filter=lfs diff=lfs merge=lfs -text
+deeplabv3_resnet50_coco.pth filter=lfs diff=lfs merge=lfs -text
